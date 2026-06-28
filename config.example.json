@@ -1,0 +1,6 @@
+{
+  "spreadSheetId": "your-google-sheet-id",
+  "salesChannelId": "your-channel-id",
+  "stocksChannelId": "your-channel-id",
+  "orderLogsChannelId": "your-channel-id"
+}
