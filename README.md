@@ -1,4 +1,5 @@
 # Order Pulse Bot 🛒📊
+[![System Walkthrough:](https://img.shields.io/badge/System%20Walkthrough-Watch%20Demo-red?logo=youtube)](https://youtu.be/jlqu-_EU67k)
 
 A Discord bot that turns a Google Form/Sheets order pipeline into a live, automated sales operations dashboard — pending order alerts, one-reaction order completion, and a recurring sales & inventory ledger, all synced to MongoDB for historical reporting.
 
